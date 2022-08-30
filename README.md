@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 ```
@@ -16,16 +17,10 @@ fine me online:             : https://essavida.ai/caputo
 ---                      
 ```
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caputomarcos&show_icons=true&theme=dracula" alt="viniciusrma's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caputomarcos&layout=compact&langs_count=16&theme=dracula"/>
-</p>
+![banner](https://essavida.ai/statics/itacoa.png)
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/caputomarcos/caputomarcos" alt="Visitors badge" />
-  </a>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caputomarcos&show_icons=true&hide_border=true&theme=tokyonight" alt="caputomarcos" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caputomarcos&hide_border=true&theme=tokyonight" alt="caputomarcos" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=caputomarcos&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="caputomarcos" /> </p>
 
 
 <!--
