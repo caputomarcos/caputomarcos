@@ -14,7 +14,8 @@ fine me online:             : https://essavida.ai/caputo
                             : https://github.com/caputomarcos/
                             : https://www.linkedin.com/in/caputomarcos/
 ---                      
-                            
+```
+
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caputomarcos&show_icons=true&theme=dracula" alt="viniciusrma's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caputomarcos&layout=compact&langs_count=16&theme=dracula"/>
