@@ -18,10 +18,14 @@ fine me online:             : https://essavida.ai/caputo
 ```
 
 ![banner](https://essavida.ai/statics/itacoa.png)
+### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caputomarcos&show_icons=true&hide_border=true&theme=tokyonight" alt="caputomarcos" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caputomarcos&hide_border=true&theme=tokyonight" alt="caputomarcos" /> </p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=caputomarcos&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="caputomarcos" /> </p>
-
+<p align="center">
+<a href="https://github.com/caputomarcos">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caputomarcos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caputomarcos&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **caputomarcos/caputomarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
