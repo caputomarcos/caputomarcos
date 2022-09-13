@@ -11,7 +11,7 @@
                                                                           
                       
 ---
-fine me online:             : https://essavida.ai/caputo
+online:                     : https://essavida.ai/caputo
                             : https://github.com/caputomarcos/
                             : https://www.linkedin.com/in/caputomarcos/
 ---                      
