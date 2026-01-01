@@ -17,7 +17,8 @@ online:                     : https://essavida.ai/caputo
 ---                      
 ```
 
-![banner](https://essavida.ai/statics/itacoa.png)
+![banner]([https://essavida.ai/statics/itacoa.png](https://github.com/user-attachments/assets/abee5d64-92f1-4fa3-b9d8-d00436e55dce)) 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
